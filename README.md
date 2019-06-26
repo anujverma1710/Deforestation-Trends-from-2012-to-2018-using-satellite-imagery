@@ -7,7 +7,7 @@
 <li>Also, employed regression models to predict the rate of deforestation given the latitude and longitude. </li>
 <li>Analyzed the correlation between deforestation rates and latitude and longitude.</li>
 <li>Technologies used - Python, PyTorch, Spark, MapReduce, Hadoop</li>
-  </li>
+  <li>Used Hadoop Cluster in Google cloud Platform</li>
 </ul>
 
 
